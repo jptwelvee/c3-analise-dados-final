@@ -24,7 +24,7 @@ Este projeto realiza uma análise completa do dataset [House Prices - Advanced R
 ## 🗂️ Estrutura do Repositório
 
 ```
-house-prices-project/
+C3 ANALISE DE DADOS FINAL/
 │
 ├── 📓 house_prices_analysis.ipynb   # Notebook principal com toda a análise
 ├── 📄 README.md                     # Este arquivo
@@ -33,10 +33,9 @@ house-prices-project/
 └── data/                            # (não versionado — baixar do Kaggle)
     ├── train.csv
     ├── test.csv
-    └── data_description.txt
 ```
 
-> ⚠️ Os arquivos de dados **não estão incluídos** neste repositório.  
+> ⚠️ Os arquivos de dados **não estão incluídos** neste repositório.
 > Faça o download em: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
 ---
