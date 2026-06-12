@@ -156,4 +156,4 @@ jupyter notebook house_prices_analysis.ipynb
 
 ---
 
-*Projeto desenvolvido para a disciplina de Data Analysis and Machine Learning — FAESA Centro Universitário — Prof. M.Sc. Howard Roatti*
+*Projeto desenvolvido para a disciplina de Análise de dados — FAESA Centro Universitário — Prof. M.Sc. Howard Roatti*
