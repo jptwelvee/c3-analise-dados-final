@@ -44,8 +44,8 @@ C3 ANALISE DE DADOS FINAL/
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/SEU_USUARIO/house-prices-project.git
-cd house-prices-project
+git clone https://github.com/seu_usuario/c3-analise-dados-final.git
+cd c3-analise-dados-final
 ```
 
 ### 2. Instale as dependências
